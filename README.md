@@ -7,7 +7,7 @@
  2. Django 2.2 ou superior
  
 #### Execute na sua máquina local:
-* `git clone https://github.com/whalisson/Projeto-Time-Table.git`
+* `git clone https://github.com/KevinMayan/timetable-icev.git`
 * `cd Projeto-Time-Table`
 * `python -m venv venv`
 *  `venv\Scripts\activate`
